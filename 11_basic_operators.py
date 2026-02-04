@@ -1,0 +1,7 @@
+a = float(input("Give me a value: "))
+b = float(input("Give me another value: "))
+print("\nResult of a + b: ", a + b)
+print("Result of a - b: ", a - b)
+print("Result of a x b: ", a * b)
+print("Result of a / b: ", a / b)
+print("\nThat's all folks!")

@@ -1,0 +1,5 @@
+print("With double quotes:")
+print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
+print()
+print("With single quotes:")
+print('"I\'m"\n""learning""\n"""Python"""')
